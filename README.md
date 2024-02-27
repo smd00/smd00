@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/username)
+![Metrics](https://metrics.lecoq.io/smd00)
 
 <!--
 ### Hi there 👋
